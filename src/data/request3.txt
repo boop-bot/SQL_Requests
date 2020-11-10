@@ -1,0 +1,2 @@
+Apple Company;Apple;Fri Oct 01 00:00:00 MSK 1976;Cupertino;Thu Apr 01 00:00:00 MSK 1976;137000;Timothy Donald Cook;1-800-275-2273;applet@apple.com;it;it making;apple.com
+Minsk Automobile Plant;MAZ;Sun Jul 16 00:00:00 MSK 1944;Minsk;Sun Jul 16 00:00:00 MSK 1944;16000;Ivancovich Valery;375-17-217-22-22;maz@maz.by;plant;making trucks;maz.by
